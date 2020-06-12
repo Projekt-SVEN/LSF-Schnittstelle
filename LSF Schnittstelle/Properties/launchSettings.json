@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "LSF Schnittstelle": {
+      "commandName": "Project"
+    },
+    "Test Argument": {
+      "commandName": "Project",
+      "commandLineArgs": "-a"
+    }
+  }
+}

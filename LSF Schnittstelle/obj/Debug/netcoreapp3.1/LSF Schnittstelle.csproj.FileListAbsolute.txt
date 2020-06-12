@@ -1,0 +1,13 @@
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\bin\Debug\netcoreapp3.1\LSF Schnittstelle.exe
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\bin\Debug\netcoreapp3.1\LSF Schnittstelle.deps.json
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\bin\Debug\netcoreapp3.1\LSF Schnittstelle.runtimeconfig.json
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\bin\Debug\netcoreapp3.1\LSF Schnittstelle.runtimeconfig.dev.json
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\bin\Debug\netcoreapp3.1\LSF Schnittstelle.dll
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\bin\Debug\netcoreapp3.1\LSF Schnittstelle.pdb
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\obj\Debug\netcoreapp3.1\LSF Schnittstelle.csprojAssemblyReference.cache
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\obj\Debug\netcoreapp3.1\LSF Schnittstelle.csproj.CoreCompileInputs.cache
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\obj\Debug\netcoreapp3.1\LSF Schnittstelle.AssemblyInfoInputs.cache
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\obj\Debug\netcoreapp3.1\LSF Schnittstelle.AssemblyInfo.cs
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\obj\Debug\netcoreapp3.1\LSF Schnittstelle.dll
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\obj\Debug\netcoreapp3.1\LSF Schnittstelle.pdb
+C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\obj\Debug\netcoreapp3.1\LSF Schnittstelle.genruntimeconfig.cache
