@@ -11,22 +11,29 @@ namespace LSF_Schnittstelle
         public const int SegmentGröße = 15;
         public const int SegmenteProStunde = 60 / SegmentGröße;
 
-        private bool[][] Belegungsplan { get; set; }    //true = belegt
+        private bool[][] Heizplan { get; set; }    //true = belegt
+        public bool[][] Belegungsplan { get; private set; } //Heizplan ohne offset
 
         public Raumplan (string raumNummer)
         {
             RaumNummer = raumNummer;
+            Heizplan = new bool[7][];
             Belegungsplan = new bool[7][];
 
             for (int i = 0; i < 7; i++)
+            {
+                Heizplan[i] = new bool[AnzahlSegmente];
                 Belegungsplan[i] = new bool[AnzahlSegmente];
+            }
         }
 
         public void BelegeRaum(TimeSpan begin, TimeSpan end, int beginOffset, int endOffset, List<DayOfWeek> weekDays)
         {
             //Umrechnung in Segmente
-            int beginIndex = (int) begin.TotalMinutes / SegmentGröße - beginOffset / SegmentGröße;
-            int endIndex = (int) end.TotalMinutes / SegmentGröße - endOffset / SegmentGröße;
+            int beginIndexOhneOffset = (int)begin.TotalMinutes / SegmentGröße;
+            int endIndexOhneOffset = (int)end.TotalMinutes / SegmentGröße;
+            int beginIndex = (int)beginIndexOhneOffset - beginOffset / SegmentGröße;
+            int endIndex = (int)endIndexOhneOffset - endOffset / SegmentGröße;
 
             //Nachkorektur wegen Offset
             if (beginIndex < 0)
@@ -39,15 +46,20 @@ namespace LSF_Schnittstelle
             else if (endIndex >= AnzahlSegmente)
                 endIndex = AnzahlSegmente - 1;
 
-            //Eintragen der Werte
+            //Eintragen der Werte Heizplan
             for (int i = beginIndex; i < endIndex; i++)
+                foreach (DayOfWeek weekDay in weekDays)
+                    Heizplan[(int)weekDay][i] = true;
+
+            //Eintragen der Werte Belegungslan
+            for (int i = beginIndexOhneOffset; i < endIndexOhneOffset; i++)
                 foreach (DayOfWeek weekDay in weekDays)
                     Belegungsplan[(int)weekDay][i] = true;
         }
 
-        public bool[] getBelegungsplan(DayOfWeek dayOfWeek)
+        public bool[] getHeizplan(DayOfWeek dayOfWeek)
         {
-            return Belegungsplan[(int)dayOfWeek];
+            return Heizplan[(int)dayOfWeek];
         }
     }
 }

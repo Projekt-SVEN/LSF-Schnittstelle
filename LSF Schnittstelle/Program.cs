@@ -8,7 +8,7 @@ namespace LSF_Schnittstelle
 {
     class Program
     {
-        static Configuration config;
+        internal static Configuration config;
         static MetaData metaData = new MetaData(); //Existieren nur einmalig
 
         static void Main(string[] args)
@@ -16,6 +16,8 @@ namespace LSF_Schnittstelle
             config = Configuration.ReadParams(args);
             if (config == null)
                 System.Environment.Exit(1);
+
+            metaData.Segmentgroesse = Raumplan.SegmentGröße;
 
             DownloadFile();
             Dictionary<string, Raumplan> räume = ReadFile();
@@ -215,6 +217,9 @@ namespace LSF_Schnittstelle
                 writer.WriteLine("entities:{0}", Regex.Replace(raumplan.RaumNummer, @"\s+", "_"));
                 foreach (DayOfWeek day in (DayOfWeek[])Enum.GetValues(typeof(DayOfWeek))) //Für jeden Tag
                     PrintWeekDay(writer, raumplan, day);
+
+                //set Meta
+                metaData.setBelegung(raumplan.RaumNummer, raumplan.Belegungsplan);
             }
 
             writer.Close();
@@ -255,8 +260,8 @@ namespace LSF_Schnittstelle
             //Tagesplan schriben
             for(int i = 1; i <= Raumplan.AnzahlSegmente; i++) //von 1 an zählen, da sonst die Zeitberechnungen verschoben sind
             {
-                bool current = raumplan.getBelegungsplan(dayOfWeek)[i - 1];
-                bool next = i < Raumplan.AnzahlSegmente ? raumplan.getBelegungsplan(dayOfWeek)[i] : !current;
+                bool current = raumplan.getHeizplan(dayOfWeek)[i - 1];
+                bool next = i < Raumplan.AnzahlSegmente ? raumplan.getHeizplan(dayOfWeek)[i] : !current;
 
                 if (current != next)
                 {//Grenze erreicht
@@ -267,14 +272,14 @@ namespace LSF_Schnittstelle
 
                     //Überbrücken von Pausen
                     int segmentNachPause = i + config.pausenlänge / Raumplan.SegmentGröße;
-                    if (current && segmentNachPause < Raumplan.AnzahlSegmente && raumplan.getBelegungsplan(dayOfWeek)[segmentNachPause])
+                    if (current && segmentNachPause < Raumplan.AnzahlSegmente && raumplan.getHeizplan(dayOfWeek)[segmentNachPause])
                     {//vorher Belegt && Gültiges Segment && nach Pause Belegt
                         metaData.StartPause(raumplan.RaumNummer, dayOfWeek, new TimeSpan(stunden, minuten, 0));
                         continue;
                     }
 
                     int segmentVorPause = i - config.pausenlänge / Raumplan.SegmentGröße - 1;   //-1 Weil VOR der Pause
-                    if (!current && segmentVorPause > 0 && raumplan.getBelegungsplan(dayOfWeek)[segmentVorPause])
+                    if (!current && segmentVorPause > 0 && raumplan.getHeizplan(dayOfWeek)[segmentVorPause])
                     {//gerade Pause && Gültiges Segment && vor Pause Belegt
                         metaData.EndPause(raumplan.RaumNummer, dayOfWeek, new TimeSpan(stunden, minuten, 0));
                         continue;

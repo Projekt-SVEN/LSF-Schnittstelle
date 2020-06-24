@@ -9,6 +9,7 @@ namespace LSF_Schnittstelle
     class MetaData
     {
         public Dictionary<string, Room> Rooms { get; set; } //Muss Member sein, sonst nicht Serialisiert
+        public int Segmentgroesse { get; set; }
 
         public MetaData()
         {
@@ -25,6 +26,12 @@ namespace LSF_Schnittstelle
         {
             Room room = getRoom(roomNr);
             room.EndPause(dayOfWeek, time);
+        }
+
+        public void setBelegung(string roomNr, bool[][] belegungsplan)
+        {
+            Room room = getRoom(roomNr);
+            room.setBelegung(belegungsplan);
         }
 
         public void print(string metaFile)
@@ -50,14 +57,19 @@ namespace LSF_Schnittstelle
         public class Room
         {
             public Dictionary<string, List<Pause>> Pausen { get; set; }
+            public Dictionary<string, List<bool>> Belegung { get; set; }
 
             public Room()
             {
                 Pausen = new Dictionary<string, List<Pause>>();
+                Belegung = new Dictionary<string, List<bool>>();
             }
 
             public void StartPause(DayOfWeek  dayOfWeek, TimeSpan time)
             {
+                //Korrektur um Offset
+                time = time.Add(new TimeSpan(0, Program.config.vorheitzen, 0));
+                
                 //Liste für Wochentag
                 string nameOfDay = Enum.GetName(typeof(DayOfWeek), dayOfWeek);
                 if (!Pausen.ContainsKey(nameOfDay))
@@ -68,7 +80,7 @@ namespace LSF_Schnittstelle
                 {//Elemente Vorhanden
 
                     //Check ob letzte Pause abgeschlossen
-                    if (pausen[pausen.Count - 1].End == default(TimeSpan))
+                    if (pausen[pausen.Count - 1].End == new MetaTime(default(TimeSpan)))
                     {
                         //Log
                         Log.Error("Pause hat kein Endzeitpunkt");
@@ -80,13 +92,17 @@ namespace LSF_Schnittstelle
                 //Einfügen
                 Pause pause = new Pause()
                 {
-                    Begin = time
+                    Begin = new MetaTime(time),
+                    End = new MetaTime(default(TimeSpan))
                 };
                 pausen.Add(pause);
             }
 
             public void EndPause(DayOfWeek dayOfWeek, TimeSpan time)
             {
+                //Korrektur um Offset
+                time = time.Add(new TimeSpan(0, Program.config.abkühlen, 0));
+
                 //Liste für Wochentag
                 string nameOfDay = Enum.GetName(typeof(DayOfWeek), dayOfWeek);
                 if (!Pausen.ContainsKey(nameOfDay))
@@ -97,7 +113,7 @@ namespace LSF_Schnittstelle
                 {//Elemente Vorhanden
 
                     //Check ob letzte Pause bereits abgeschlossen
-                    if (pausen[pausen.Count - 1].End != default(TimeSpan))
+                    if (pausen[pausen.Count - 1].End != new MetaTime(default(TimeSpan)))
                     {
                         //Log
                         Log.Error("Pause hat keinen Anfang");
@@ -105,17 +121,40 @@ namespace LSF_Schnittstelle
                     }
 
                     //Einfügen
-                    pausen[pausen.Count - 1].End = time;
+                    pausen[pausen.Count - 1].End = new MetaTime(time);
                 }
                 else
                     Log.Error("Pause hat keinen Anfang");
+            }
+
+            public void setBelegung(bool[][] belegungsplan)
+            {
+                for (int index = 0; index < belegungsplan.Length; index++)
+                {
+                    string nameOfDay = Enum.GetName(typeof(DayOfWeek), (DayOfWeek)index);
+                    Belegung.Add(nameOfDay, new List<bool>(belegungsplan[index]));
+                }
             }
         }
 
         public class Pause
         {
-            public TimeSpan Begin { get; set; }
-            public TimeSpan End { get; set; }
+            public MetaTime Begin { get; set; }
+            public MetaTime End { get; set; }
+        }
+
+        public class MetaTime
+        {
+            public int Hours { get; set; }
+            public int Minutes { get; set; }
+            public int Seconds { get; set; }
+
+            public MetaTime(TimeSpan time)
+            {
+                Hours = time.Hours;
+                Minutes = time.Minutes;
+                Seconds = time.Seconds;
+            }
         }
     }
 }

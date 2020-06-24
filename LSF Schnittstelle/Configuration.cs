@@ -12,7 +12,8 @@ namespace LSF_Schnittstelle
         public string ausgabeFile = "plan.cfg";
         public string metaFile = "metadata.json";
 
-        public DateTime date = DateTime.Parse("15.10.2019").Date;//DateTime.Now.Date;
+        //public DateTime date = DateTime.Parse("15.10.2019").Date;
+        public DateTime date = DateTime.Now;
 
         public double temperaturUngenutzt = 17.0;
         public double temperaturGenutzt = 22.0;

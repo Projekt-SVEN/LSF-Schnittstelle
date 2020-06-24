@@ -1,0 +1,2 @@
+Lesen von JSON in Perl erfordert das Modul:
+JSON::Parse
