@@ -286,7 +286,8 @@ namespace LSF_Schnittstelle
                     }
 
                     //Schreiben des Befehls
-                    writer.Write("{0:00}:{1:00} {2:#.0} ", stunden, minuten, temperatur);
+                    string entry = String.Format("{0:00}:{1:00} {2:#.0} ", stunden, minuten, temperatur).Replace(',', '.');
+                    writer.Write(entry);
                 }
             }
 
