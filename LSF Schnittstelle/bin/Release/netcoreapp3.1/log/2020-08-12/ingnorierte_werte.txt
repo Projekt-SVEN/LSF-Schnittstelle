@@ -1,0 +1,1183 @@
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    125
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    391
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    630
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    631
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    632
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    633
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    634
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    635
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    636
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    637
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    650
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    688
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    691
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    707
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    713
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    714
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    715
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    716
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    801
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    830
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    898
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    1003
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    1048
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    1049
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    1110
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    1111
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    1135
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    1136
+Element:  VeranstalltungArt
+Wert:     14-täglich
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    1706
+Element:  ganze Veranstalltung [Reservierung Frau Israel-Schart]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2511
+Element:  ganze Veranstalltung [The German Convention Market]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2513
+Element:  ganze Veranstalltung [Trainingskompetenz (Personalentwicklung)]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2516
+Element:  ganze Veranstalltung [Vertiefung Projektmanagement 1]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2517
+Element:  ganze Veranstalltung [Vertiefung Projektmanagement 2]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2518
+Element:  ganze Veranstalltung [VWL (3/4)]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2537
+Element:  ganze Veranstalltung [Agiles Requirements Engineering]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2538
+Element:  ganze Veranstalltung [Anlagenautomatisierung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2539
+Element:  ganze Veranstalltung [Anlagenautomatisierung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2540
+Element:  ganze Veranstalltung [Anlagenautomatisierung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2541
+Element:  ganze Veranstalltung [Ausgewählte Themen der Mensch-Computer-Interaktion]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2542
+Element:  ganze Veranstalltung [Betriebssysteme]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2543
+Element:  ganze Veranstalltung [Betriebssysteme]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2544
+Element:  ganze Veranstalltung [BFO Ausgewähltes Thema der Gestaltung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2545
+Element:  ganze Veranstalltung [BFO Ausgewähltes Thema des Motion Capture]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2546
+Element:  ganze Veranstalltung [BFO Ausgewählte Themen HCI]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2547
+Element:  ganze Veranstalltung [BFO Requirements Engineering, Teil 2]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2548
+Element:  ganze Veranstalltung [BFO Visualisierung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2549
+Element:  ganze Veranstalltung [Bildverarbeitung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2550
+Element:  ganze Veranstalltung [Bildverarbeitung (Labor)]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2551
+Element:  ganze Veranstalltung [Branchen- und Management-Informationssysteme]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2552
+Element:  ganze Veranstalltung [Charakter-Generation]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2553
+Element:  ganze Veranstalltung [Computer-aided Engineering]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2554
+Element:  ganze Veranstalltung [Computer-aided Engineering]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2555
+Element:  ganze Veranstalltung [Computeranimation]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2556
+Element:  ganze Veranstalltung [Data Link Layer]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2557
+Element:  ganze Veranstalltung [Data Link Layer]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2558
+Element:  ganze Veranstalltung [Data Mining]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2559
+Element:  ganze Veranstalltung [Data Mining]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2560
+Element:  ganze Veranstalltung [Datenbanksysteme 1]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2561
+Element:  ganze Veranstalltung [Datenbanksysteme 1]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2562
+Element:  ganze Veranstalltung [Design interaktiver Oberflächen]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2563
+Element:  ganze Veranstalltung [Dezentrale Gebäudeautomatisierung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2564
+Element:  ganze Veranstalltung [Dezentrale Gebäudeautomatisierung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2565
+Element:  ganze Veranstalltung [Digitaltechnik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2566
+Element:  ganze Veranstalltung [Digitaltechnik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2567
+Element:  ganze Veranstalltung [Eigenprojekt 2]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2568
+Element:  ganze Veranstalltung [Einf. Spez. Virtuelle Welten]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2569
+Element:  ganze Veranstalltung [Einführung  BWL]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2570
+Element:  ganze Veranstalltung [Einführung Datenbanksysteme]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2571
+Element:  ganze Veranstalltung [Einführung in Datenbanksysteme]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2572
+Element:  ganze Veranstalltung [Elektronische Bauelemente]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2573
+Element:  ganze Veranstalltung [Elektronische Bauelemente]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2574
+Element:  ganze Veranstalltung [Elektrotechnik 1]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2575
+Element:  ganze Veranstalltung [Elektrotechnik 1]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2576
+Element:  ganze Veranstalltung [Englisch]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2577
+Element:  ganze Veranstalltung [Filmschnitt]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2578
+Element:  ganze Veranstalltung [Filmtechnik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2579
+Element:  ganze Veranstalltung [Formale Methoden]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2580
+Element:  ganze Veranstalltung [Geoinformationssysteme und -dienste]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2581
+Element:  ganze Veranstalltung [Geoinformationssysteme und -dienste: Grundlagen]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2582
+Element:  ganze Veranstalltung [Geschäftsprozessautomatisierung mit ERP-Systemen]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2583
+Element:  ganze Veranstalltung [Information Retrieval]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2584
+Element:  ganze Veranstalltung [Information Retrieval]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2585
+Element:  ganze Veranstalltung [Informationsmanagement]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2586
+Element:  ganze Veranstalltung [IT-Management]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2587
+Element:  ganze Veranstalltung [IT-Strategie, -Standards, Umsetzungen im E-Government]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2588
+Element:  ganze Veranstalltung [Konstruktionsmethodik/CAD/CAE]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2589
+Element:  ganze Veranstalltung [Konstruktionsmethodik/CAD/CAE]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2590
+Element:  ganze Veranstalltung [Kreativitätstechniken]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2591
+Element:  ganze Veranstalltung [Leistungselektronik/Elektrische Antriebe]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2592
+Element:  ganze Veranstalltung [Leistungselektronik/Elektrische Antriebe]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2593
+Element:  ganze Veranstalltung [Mathematik 2 für Ingenieurwissenschaften]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2594
+Element:  ganze Veranstalltung [Mathematik für Informatik 2]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2595
+Element:  ganze Veranstalltung [Mathematik für Informatik 2]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2596
+Element:  ganze Veranstalltung [Mathematik und Computergrafik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2597
+Element:  ganze Veranstalltung [Mechatronische Systeme]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2598
+Element:  ganze Veranstalltung [Mechatronische Systeme]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2599
+Element:  ganze Veranstalltung [Medienenglisch]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2600
+Element:  ganze Veranstalltung [Mediengestaltung 2]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2601
+Element:  ganze Veranstalltung [Messtechnik, Sensorik und Aktorik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2602
+Element:  ganze Veranstalltung [Messtechnik, Sensorik und Aktorik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2603
+Element:  ganze Veranstalltung [Messtechnik, Sensorik und Aktorik in Smart Automation]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2604
+Element:  ganze Veranstalltung [Messtechnik, Sensorik und Aktorik in Smart Automation]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:48]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2605
+Element:  ganze Veranstalltung [Mixed Reality]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2606
+Element:  ganze Veranstalltung [Mixed Reality]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2607
+Element:  ganze Veranstalltung [Mobile Applikationen und Infrastrukturen]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2608
+Element:  ganze Veranstalltung [Mobile Applikationen und Infrastrukturen]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2609
+Element:  ganze Veranstalltung [Multimediale Protokolle]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2610
+Element:  ganze Veranstalltung [Multimediale Protokolle]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2611
+Element:  ganze Veranstalltung [OPC Unified Architecture]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2612
+Element:  ganze Veranstalltung [OPC Unified Architecture]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2613
+Element:  ganze Veranstalltung [Operations Reseach]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2614
+Element:  ganze Veranstalltung [Operations Research]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2615
+Element:  ganze Veranstalltung [Operations Research]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2616
+Element:  ganze Veranstalltung [Photovoltaik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2617
+Element:  ganze Veranstalltung [Physical Layer]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2618
+Element:  ganze Veranstalltung [Physical Layer]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2619
+Element:  ganze Veranstalltung [Physik 2]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2620
+Element:  ganze Veranstalltung [Physik 2]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2621
+Element:  ganze Veranstalltung [Postproduktion]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2634
+Element:  ganze Veranstalltung [Programmierung mobile Roboter]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2635
+Element:  ganze Veranstalltung [Programmierung mobiler Roboter]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2636
+Element:  ganze Veranstalltung [Programmierung mobiler Systeme]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2637
+Element:  ganze Veranstalltung [Programmierung mobiler Systeme]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2638
+Element:  ganze Veranstalltung [Programmierung Mobiler Systeme]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2639
+Element:  ganze Veranstalltung [Projekt 2]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2640
+Element:  ganze Veranstalltung [Projektmanagement]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2641
+Element:  ganze Veranstalltung [Projektmanagement]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2642
+Element:  ganze Veranstalltung [Propädeutikum Mathematik 2]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2643
+Element:  ganze Veranstalltung [Prozessorientierter Entwurf]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2644
+Element:  ganze Veranstalltung [Prozessorientierter Entwurf]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2645
+Element:  ganze Veranstalltung [Scientific Writing and Presentation]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2646
+Element:  ganze Veranstalltung [Seminar]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2647
+Element:  ganze Veranstalltung [Software-Engineering]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2648
+Element:  ganze Veranstalltung [Softwaretechnik 1]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2649
+Element:  ganze Veranstalltung [Softwaretechnik 1]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2650
+Element:  ganze Veranstalltung [Solarthermie]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2651
+Element:  ganze Veranstalltung [Solarthermie / Photovoltaik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2652
+Element:  ganze Veranstalltung [Spez. Ambient Assisted Living / Mobile Systeme - Einführung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2653
+Element:  ganze Veranstalltung [Spez. Futur Internet / Internet of Things - Einführung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2654
+Element:  ganze Veranstalltung [Spezialisierung: Ambient Assisted Living / Mobile Systeme - Anwendungspraktikum]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2655
+Element:  ganze Veranstalltung [Spezialisierung: Ambient Assisted Living / Mobile Systeme - Einführung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2656
+Element:  ganze Veranstalltung [Spezialisierung: Sicherheit, Vertrauenswürdigkeit, E-Administration / E-Business - Einführung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2657
+Element:  ganze Veranstalltung [Spezialisierung: Virtuelle Welten - Anwendungspraktikum]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2658
+Element:  ganze Veranstalltung [Spez. Sicherheit, Vertrauenswürdigkeit, E-Administration / E-Business - Einführung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2659
+Element:  ganze Veranstalltung [Statistische Methoden]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2660
+Element:  ganze Veranstalltung [Steuerungstechnik 1]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2661
+Element:  ganze Veranstalltung [Steuerungstechnik 1]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2662
+Element:  ganze Veranstalltung [Team Project]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2663
+Element:  ganze Veranstalltung [Teamprojekt]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2664
+Element:  ganze Veranstalltung [Teamprojekt I]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2665
+Element:  ganze Veranstalltung [Teamprojekt II]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2666
+Element:  ganze Veranstalltung [Technische Innovationsfelder]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2667
+Element:  ganze Veranstalltung [Testmanagement]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2668
+Element:  ganze Veranstalltung [Theoretische Informatik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2669
+Element:  ganze Veranstalltung [Theoretische Informatik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2670
+Element:  ganze Veranstalltung [Theoretische Informatik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2671
+Element:  ganze Veranstalltung [Umwelttechnik und Arbeitssicherheit]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2672
+Element:  ganze Veranstalltung [Umwelttechnik und Arbeitssicherheit]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2673
+Element:  ganze Veranstalltung [Verteilte Datenbanksysteme (Teil 2)]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2674
+Element:  ganze Veranstalltung [Webprogrammierung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2675
+Element:  ganze Veranstalltung [Webprogrammierung]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2676
+Element:  ganze Veranstalltung [Web-Services und -Infrastrukturen]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2677
+Element:  ganze Veranstalltung [Web-Services und -Infrastrukturen]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2678
+Element:  ganze Veranstalltung [Wind-/Wasserkraft]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2679
+Element:  ganze Veranstalltung [Wind-/Wasserkraft - Labor]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2680
+Element:  ganze Veranstalltung [Wissenschaftliche Methodik]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2681
+Element:  ganze Veranstalltung [Wissenschaftliches Arbeiten]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2682
+Element:  ganze Veranstalltung [Workflowmanagement]
+Wert:     beginTime = \N
+===============================================
+
+IGNORE     [08.12.2020 16:53:49]:     Eingabe wurde Ignoriert
+===============================================
+Zeile:    2683
+Element:  ganze Veranstalltung [Workflowmanagement]
+Wert:     beginTime = \N
+===============================================
+

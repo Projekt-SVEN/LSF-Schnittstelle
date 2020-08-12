@@ -1,0 +1,1 @@
+ERROR      [08.12.2020 16:39:35]:    Pause hat keinen Anfang

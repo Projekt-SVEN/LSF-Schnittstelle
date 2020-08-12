@@ -11,3 +11,14 @@ C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\obj\Re
 C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\obj\Release\netcoreapp3.1\LSF Schnittstelle.dll
 C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\obj\Release\netcoreapp3.1\LSF Schnittstelle.pdb
 C:\Users\Dennis Naujokat\source\repos\LSF Schnittstelle\LSF Schnittstelle\obj\Release\netcoreapp3.1\LSF Schnittstelle.genruntimeconfig.cache
+C:\Users\prinz\source\repos\LSF-Schnittstelle\LSF Schnittstelle\bin\Release\netcoreapp3.1\LSF Schnittstelle.exe
+C:\Users\prinz\source\repos\LSF-Schnittstelle\LSF Schnittstelle\bin\Release\netcoreapp3.1\LSF Schnittstelle.deps.json
+C:\Users\prinz\source\repos\LSF-Schnittstelle\LSF Schnittstelle\bin\Release\netcoreapp3.1\LSF Schnittstelle.runtimeconfig.json
+C:\Users\prinz\source\repos\LSF-Schnittstelle\LSF Schnittstelle\bin\Release\netcoreapp3.1\LSF Schnittstelle.runtimeconfig.dev.json
+C:\Users\prinz\source\repos\LSF-Schnittstelle\LSF Schnittstelle\bin\Release\netcoreapp3.1\LSF Schnittstelle.dll
+C:\Users\prinz\source\repos\LSF-Schnittstelle\LSF Schnittstelle\bin\Release\netcoreapp3.1\LSF Schnittstelle.pdb
+C:\Users\prinz\source\repos\LSF-Schnittstelle\LSF Schnittstelle\obj\Release\netcoreapp3.1\LSF Schnittstelle.csprojAssemblyReference.cache
+C:\Users\prinz\source\repos\LSF-Schnittstelle\LSF Schnittstelle\obj\Release\netcoreapp3.1\LSF Schnittstelle.AssemblyInfoInputs.cache
+C:\Users\prinz\source\repos\LSF-Schnittstelle\LSF Schnittstelle\obj\Release\netcoreapp3.1\LSF Schnittstelle.AssemblyInfo.cs
+C:\Users\prinz\source\repos\LSF-Schnittstelle\LSF Schnittstelle\obj\Release\netcoreapp3.1\LSF Schnittstelle.dll
+C:\Users\prinz\source\repos\LSF-Schnittstelle\LSF Schnittstelle\obj\Release\netcoreapp3.1\LSF Schnittstelle.pdb

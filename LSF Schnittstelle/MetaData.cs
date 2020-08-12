@@ -155,6 +155,21 @@ namespace LSF_Schnittstelle
                 Minutes = time.Minutes;
                 Seconds = time.Seconds;
             }
+
+            public static bool operator ==(MetaTime a, MetaTime b)
+            {
+                if (a is null)
+                    return b is null;
+                if (b is null)
+                    return false;
+
+                return a.Hours == b.Hours && a.Minutes == b.Minutes && a.Seconds == b.Seconds;
+            }
+
+            public static bool operator !=(MetaTime a, MetaTime b)
+            {
+                return !(a == b);
+            }
         }
     }
 }
