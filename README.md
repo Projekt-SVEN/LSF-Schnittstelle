@@ -1,5 +1,6 @@
 # LSF-Schnittstelle
-This is a Part of the Project SVEN
+This is a Part of the Project SVEN.
+
 See https://projekt-sven.github.io/ for more Info
 
 ## Aufgabe der Schnittstelle
